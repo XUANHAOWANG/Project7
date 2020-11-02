@@ -84,6 +84,3 @@ audio.addEventListener('timeupdate', updateProgress)
 progressContainer.addEventListener('click', setProgress)
 // Song end
 audio.addEventListener('ended', nextSong)
-/**
- * 
- */
